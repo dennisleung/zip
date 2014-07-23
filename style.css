@@ -1,0 +1,12 @@
+*{
+	font-size:17px;
+}
+
+#main-content{
+	margin:50px auto;
+	padding:0 10px;
+}
+
+#show_result{
+	padding-left:50px;
+}
