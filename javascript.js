@@ -41,7 +41,7 @@ var zipFile = function(){
 			alert("你还未选择任何记录！");
 			return;
 		}
-		for(i=0;i<records.length;i++){/
+		for(i=0;i<records.length;i++){
 			rname.push($(records[i]).val());
 		}
 		relocate = relocate + rname + "&user_num=" + number;
